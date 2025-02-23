@@ -44,6 +44,8 @@ Zur besseren Planung der Anordnung ist hier eine kleine "Skizze" des NeoPixel-Ri
     S  R  N  R  S
    11 10  9  8  7
 
+XD GitHub mag meine Formatierung nicht!? :-(
+
 ## Inhalt der Lerneinheit:
 Jedes Projekt stellt ja in einem gewissen Sinne eine "Lerneinheit" dar. Die behandelten Themen sind:
 - Einbinden von Fremdhardware und Bibliotheken (NeoPixel (WS2812) und Led&Key-Shield (TM1638))
