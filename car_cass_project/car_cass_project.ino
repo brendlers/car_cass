@@ -39,7 +39,10 @@ void Blink(int nDelay=500, int nTimes=1)
   }
 }
 
-
+/* Klassendefinitiionen
+// In diesem Bereich werden DREI Klassen definiert. Eine für die Licht, eine für Blinker, und eine für das PolizeiLicht.
+// Diese Klassen sind der Bauplan für die Objekte, die später erstellt werden.
+*/
 class Light {
   bool status = false;
   int pinLED1;
